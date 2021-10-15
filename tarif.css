@@ -1,10 +1,11 @@
 .hazirlanma {
     position: relative;
-    left: 750px;
+    margin-left: 750px;
 }
 
 .tarif {
     position: relative;
-    left: 800px;
+    margin-left: 800px;
     margin-top: 50px;
+    
 }
